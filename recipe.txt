@@ -1,0 +1,16 @@
+~/git_practice/recipe.txt
+C:\Users\Graem\Documents\git_practice\recipe.txt
+# Title: Dog Poop Casserole
+## Ingredients:
+  - 1 tsp Salt
+  - 1 tsp Pepper
+  - 1 steaming pile of dog poop
+## Directions:
+  - Combine ingredients  
+  - Bake at 375° F (190° C) for 11 minutes
+  - Smell for doneness
+## Yield:
+  - Serves infinitely many people because
+  - portion size is zero!
+
+## Enjoy!
